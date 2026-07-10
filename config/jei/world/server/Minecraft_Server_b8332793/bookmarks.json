@@ -1,0 +1,13 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:deployer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:coal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"offroad:wheel_mount"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:maple_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tracks:track_mount"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:shears","components":{"minecraft:damage":75}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"comforts:sleeping_bag_blue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:compass"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

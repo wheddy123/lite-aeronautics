@@ -1,0 +1,34 @@
+#Play sound in cave
+play_in_cave = false
+#Play sound in other dimensions
+play_in_other_dim = false
+#Send messages
+send_messages = true
+#Send messages in other dimensions
+send_messages_other_dim = false
+#Rooster volume
+# Default: 50
+# Range: 0 ~ 100
+rooster_volume = 50
+#Wolf volume
+# Default: 50
+# Range: 0 ~ 100
+wolf_volume = 50
+#When should crow Rooster? (time in ticks)
+# Default: 100
+# Range: 10 ~ 23999
+morning_tick = 100
+#When should howl Wolf? (time in ticks)
+# Default: 13000
+# Range: 10 ~ 23999
+evening_tick = 13000
+#Chance to play Rooster sound
+# Default: 100
+# Range: 0 ~ 100
+chance_rooster = 100
+#Chance to play Wolf sound
+# Default: 100
+# Range: 0 ~ 100
+chance_wolf = 100
+#Current moon phase
+moon_phase = "All"

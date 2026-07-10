@@ -1,0 +1,22 @@
+# Junk / volatile
+logs/
+crash-reports/
+downloads/
+dynamic-resource-pack-cache/
+local/
+*.log
+
+# Personal world data
+saves/
+
+# Orphaned data (leftover from removed Cobblemon)
+showdown/
+
+# Launcher/cache files
+usercache.json
+usernamecache.json
+command_history.txt
+
+# OS files
+.DS_Store
+Thumbs.db
