@@ -20,3 +20,6 @@ command_history.txt
 # OS files
 .DS_Store
 Thumbs.db
+
+# Connector runtime cache (generated, not mods)
+mods/.connector/
